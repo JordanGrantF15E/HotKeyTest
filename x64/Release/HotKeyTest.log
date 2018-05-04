@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  HotKeyTest.cpp
+     Creating library .\x64\Release\HotKeyTest.lib and object .\x64\Release\HotKeyTest.exp
+  Generating code
+  46 of 623 functions ( 7.4%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    21 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  HotKeyTest.vcxproj -> E:\Dropbox\Projects\SIMDIS Stuff\HotKeyTest\.\x64\Release\HotKeyTest.dll
+  HotKeyTest.vcxproj -> .\x64\Release\HotKeyTest.pdb (Full PDB)
